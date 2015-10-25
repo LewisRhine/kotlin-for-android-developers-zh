@@ -7,4 +7,5 @@
 * [关于作者](guan_yu_zuo_zhe.md)
 * [介绍](jie_shao.md)
    * [什么是Kotlin？](shi_yao_shi_kotlin.md)
+   * 我们通过Kotlin得到什么
 
