@@ -10,3 +10,4 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"/>
 ```
+然后，手动在Activity中增加一个import语句（不要担心你现在对这个还不太理解）。
