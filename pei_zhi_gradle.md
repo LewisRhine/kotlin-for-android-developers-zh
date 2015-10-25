@@ -23,4 +23,29 @@ jcenter() }
 
 我们对于`support library`也是如此，`Anko`库也是同样的做法。用这个方式可以更方便地在一个地方修改所有的版本号。并且使用相同的版本号，更新的时候也不需要每个地方都修改。
 
+我们会增加`Kotlin`库，`Anko`库和`Kotlin Android Extensions plugin`到dependencies。
+```groovy
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+android {
+    ...
+}
+
+dependencies {
+    compile "com.android.support:appcompat-v7:$support_version"
+    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    compile "org.jetbrains.anko:anko-sdk15:$anko_version"
+    compile "org.jetbrains.anko:anko-support-v4:$anko_version"
+}
+
+buildscript {
+    repositories {
+jcenter() }
+    dependencies {
+      classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
+    } 
+}
+```
+Anko库需要几个依赖。第一个是指所支持的最小的SDK。不能比你在`build.gradle`中定义的最小SDK更高，这点很重要。第二增加了额外的`support-v4`库的功能，这是导入`appcompat-v7`库时隐含增加的。
+
 
