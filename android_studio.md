@@ -8,7 +8,7 @@ Android Studio是[Intellij IDEA]的插件实现，Intellij IDEA是由[JetBrains]
 
 第二，[Gradle]成为Android官方的系统构建工具，这意味着版本构建和部署的新的可能性。最有趣的两点是系统构建和flavours，它可以让你使用相同的代码库来创建无限的版本（甚至是不同的应用）。
 
-如果你仍然使用Eclipse，为了实践本书更多的内容，恐怕你需要转移到Android Studio了。Kotlin团队也创建了一个针对Eclipse的插件，但是它是远远落后于Android Studio的，并且结合得也并不完美。你一旦使用了它，你就会觉得相见恨晚。
+如果你仍然使用Eclipse，为了实践本书更多的内容，恐怕你需要转移到Android Studio了。Kotlin团队也创建了一个针对Eclipse的插件，但是它是远远落后于Android Studio的，而且结合得也并不完美。你一旦使用了它，你就会觉得相见恨晚。
 
 我不会去覆盖到Android Studio和Gradle的使用，因为这些都不是本书的重点，但是如果你以前没有使用过这些工具，不要恐慌，我确信你能够跟随本书的同时学习到相关基础。
 
