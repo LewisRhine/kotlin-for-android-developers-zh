@@ -1,5 +1,5 @@
 # kotlin-for-android-developers-zh
-Kotlin for android developers in chinese.
 
-Read online or Download：
-<https://www.gitbook.com/book/wangjiegulu/kotlin-for-android-developers-zh/details>
+《Kotlin for android developers》中文版翻译
+
+在线阅读或下载：<https://www.gitbook.com/book/wangjiegulu/kotlin-for-android-developers-zh/details>
