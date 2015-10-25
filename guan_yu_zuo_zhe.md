@@ -4,5 +4,7 @@ Antonio Leiva是一个Android工程师，他专注于研究新的潜在的Androi
 
 Antonio一开始是CRM技术顾问，但是一段时间之后，他寻找着新的激情，他发现了Android世界。在优秀的平台上获得了相关经验，之后他加入了一个西班牙重要的手机公司带领多个项目作为新的冒险。
 
+现在，他在[Plex]担任Android工程师，并且在Android的设计和UX方面也担任重要的角色。
 
 [antonioleiva.com]: http://antonioleiva.com/
+[Plex]: http://plex.tv/
