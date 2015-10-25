@@ -11,4 +11,5 @@
 * [准备工作](zhun_bei_gong_zuo.md)
    * [Android Studio](android_studio.md)
    * [安装Kotlin插件](an_zhuang_kotlin_cha_jian.md)
+* 创建一个新的项目
 
