@@ -31,6 +31,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 现在运行这个app，并且它是正常运行的。检查TextView是否是显示的新的内容。如果你有疑问或者想查看代码，请在[Kotlin for Android Developers repository]查看。每个章节只要修改了代码，我都会进行提交，所以一定要检查所有的代码变化。
 
+下一章会覆盖你在转换之后的MainActivity所看到的新的东西。一旦你理解了Java和Kotlin之间的细微的变化，你将能更容易独立写新的代码了。
 
 
 [Kotlin for Android Developers repository]: https://github.com/antoniolg/Kotlin-for-Android-Developers
