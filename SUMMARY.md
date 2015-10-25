@@ -14,5 +14,5 @@
 * [创建一个新的项目](chuang_jian_yi_ge_xin_de_xiang_mu.md)
    * [在Android Studio中创建一个项目](zai_android_studio_zhong_chuang_jian_yi_ge_xiang_mu.md)
    * [配置Gradle](pei_zhi_gradle.md)
-   * 把MainActivity转换成Kotlin代码
+   * [把MainActivity转换成Kotlin代码](ba_mainactivity_zhuan_huan_cheng_kotlin_dai_ma.md)
 
