@@ -2,7 +2,7 @@
 
 第一件事就是安装Android Studio。就如你知道的，Android Studio是官方的Android IDE，它是2013年发布的预览版，并在2014年发布了正式版。
 
-Android Studio是[Intellij IDEA]的插件实现，Intellij IDEA是[JetBrains]由开发，Kotlin就是JetBrains创造的。所以，正如你所见，一切都这么紧密地结合起来了。
+Android Studio是[Intellij IDEA]的插件实现，Intellij IDEA是由[JetBrains]开发，Kotlin就是JetBrains创造的。所以，正如你所见，一切都这么紧密地结合起来了。
 
 转移Android Studio是Android开发者一个重要的改变。首先，因为我们放弃了Eclipse并转到专为Java开发者设计的完美的语言交互的软件。我们可以享受到完美的特性体验，比如反应快速和令人影响深刻的智能代码提示，还有强大的分析和重构工具。
 
