@@ -27,6 +27,6 @@ override fun onCreate(savedInstanceState: Bundle?) {
 }
 ```
 
-
+多亏Kotlin和Java之间的互操作性，我们可以在Kotlin中像操作属性一样去操作Java库中的getter/setter方法。
 
 
