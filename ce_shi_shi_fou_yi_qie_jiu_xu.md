@@ -29,4 +29,10 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 多亏Kotlin和Java之间的互操作性，我们可以在Kotlin中像操作属性一样去操作Java库中的getter/setter方法。我们之后再去讲解属性，但是我想提醒的是，我们可以使用`message.text`来代替`message.setText`。编译器将会把它转换成一般的Java代码，所以这样使用是没有任何性能开销的。
 
+现在运行这个app，并且它是正常运行的。检查TextView是否是显示的新的内容。如果你有疑问或者想查看代码，请在[Kotlin for Android Developers repository]查看。
+
+
+
+[Kotlin for Android Developers repository]: https://github.com/antoniolg/Kotlin-for-Android-Developers
+
 
