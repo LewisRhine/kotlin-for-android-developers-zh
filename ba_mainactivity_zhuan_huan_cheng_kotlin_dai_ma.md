@@ -1,2 +1,3 @@
 # 把MainActivity转换成Kotlin代码
 
+Kotlin plugin包含了一个有趣的特性，它能把Java代码转成Kotlin代码。
