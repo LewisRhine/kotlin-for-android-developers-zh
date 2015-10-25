@@ -10,4 +10,5 @@
    * [我们通过Kotlin得到什么](wo_men_tong_guo_kotlin_de_dao_shi_yao.md)
 * [准备工作](zhun_bei_gong_zuo.md)
    * [Android Studio](android_studio.md)
+   * 安装Kotlin插件
 
