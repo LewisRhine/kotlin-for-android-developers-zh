@@ -10,6 +10,11 @@ Android Studio是[Intellij IDEA]的插件实现，Intellij IDEA是[JetBrains]由
 
 如果你仍然使用Eclipse，为了实践本书更多的内容，恐怕你需要转移到Android Studio了。Kotlin团队也创建了一个针对Eclipse的插件，但是它是远远落后于Android Studio的，并且结合得也并不完美。你一旦使用了它，你就会觉得相见恨晚。
 
+我不会去覆盖到Android Studio和Gradle的使用，因为这些都不是本书的重点，但是如果你以前没有使用过这些工具，不要恐慌，我确信你能够跟随本书的同时学习到相关基础。
+
+如果你还没有AndroidStudio，[点这里从官网下载](https://developer.android.com/sdk/index.html)。
+
+
 
 [JetBrains]: https://www.jetbrains.com/
 [Intellij IDEA]: https://www.jetbrains.com/idea
