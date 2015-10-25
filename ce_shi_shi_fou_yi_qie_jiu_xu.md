@@ -14,3 +14,4 @@
 ```kotlin
 import kotlinx.android.synthetic.activity_main.*
 ```
+在`onCreate`中，你现在可以直接得到并访问这个TextView了。
