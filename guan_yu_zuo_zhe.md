@@ -6,5 +6,8 @@ Antonio一开始是CRM技术顾问，但是一段时间之后，他寻找着新�
 
 现在，他在[Plex]担任Android工程师，并且在Android的设计和UX方面也担任重要的角色。
 
+你可以在Twitter上关注他[@lime_cl]。
+
 [antonioleiva.com]: http://antonioleiva.com/
 [Plex]: http://plex.tv/
+[@lime_cl]: https://twitter.com/lime_cl
