@@ -26,6 +26,6 @@
    * [The Recycler Adapter](the_recycler_adapter.md)
 * [变量和属性](bian_liang_he_shu_xing.md)
    * [基本类型](ji_ben_lei_xing.md)
-   * 变量
+   * [变量](bian_liang.md)
    * [属性](shu_xing.md)
 
