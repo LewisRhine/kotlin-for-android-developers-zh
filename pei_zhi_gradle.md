@@ -13,7 +13,8 @@ buildscript {
         dependencies {
             classpath 'com.android.tools.build:gradle:1.2.3'
             classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-        } 
+        }
+    }
 }
 allprojects {
     repositories {
