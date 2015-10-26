@@ -34,4 +34,5 @@
    * [扩展函数](kuo_zhan_han_shu.md)
 * 从API中获取数据
    * [执行一个请求](zhi_xing_yi_ge_qing_qiu.md)
+   * 在主线程以外执行请求
 
