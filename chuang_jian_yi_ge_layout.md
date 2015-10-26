@@ -31,3 +31,6 @@ forecastList.layoutManager = LinearLayoutManager(this)
 ```
 
 如你所见，我们定义类一个变量并转型为`RecyclerView`。这里与Java优点不同，我们会在下一章分析这些不同之处。这个layout已经足够显示一个列表了。
+
+>对象实例化
+>>对象实例化也是与Java中有些不同。如你所见，我们去掉了`new`关键字。这时构造函数仍然会被调用，但是我们省略了宝贵的四个字符。`LinearLayoutManager(this)`创建了一个对象的实例。
