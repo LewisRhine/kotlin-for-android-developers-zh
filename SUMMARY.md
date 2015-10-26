@@ -25,5 +25,5 @@
    * [创建一个layout](chuang_jian_yi_ge_layout.md)
    * [The Recycler Adapter](the_recycler_adapter.md)
 * [变量和属性](bian_liang_he_shu_xing.md)
-   * 基本类型
+   * [基本类型](ji_ben_lei_xing.md)
 
