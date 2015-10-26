@@ -20,4 +20,5 @@
    * [怎么定义一个类](zen_yao_ding_yi_yi_ge_lei.md)
    * [类继承](lei_ji_cheng.md)
    * [函数](han_shu.md)
+   * 构造方法和函数参数
 
