@@ -9,11 +9,11 @@ buildscript {
     ext.kotlin_version = '0.13.1514'
     ext.anko_version = '0.7'
     repositories {
-    jcenter()
+        jcenter()
         dependencies {
             classpath 'com.android.tools.build:gradle:1.2.3'
             classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-    } 
+        } 
 }
 allprojects {
     repositories {
