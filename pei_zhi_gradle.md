@@ -9,14 +9,16 @@ buildscript {
     ext.kotlin_version = '0.13.1514'
     ext.anko_version = '0.7'
     repositories {
-jcenter()
-    dependencies {
-        classpath 'com.android.tools.build:gradle:1.2.3'
-        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-} }
+    jcenter()
+        dependencies {
+            classpath 'com.android.tools.build:gradle:1.2.3'
+            classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    } 
+}
 allprojects {
     repositories {
-jcenter() }
+        jcenter() 
+    }
 }
 ```
 正如你看到的，我们创建了一个变量来存储当前的Kotlin版本。你读到这里的时候去检测一下最新版本，因为可能会有更新的版本已经发布了。我们需要在几个不同的地方用到那个版本号，比如你需要加上新的Kotlin插件的`dependency`。你会在你指定的那些模块中的`build.gradle`中再次需要到它。
