@@ -32,4 +32,5 @@
    * [Anko是什么？](ankoshi_shi_yao_ff1f.md)
    * [开始使用Anko](kai_shi_shi_yong_anko.md)
    * [扩展函数](kuo_zhan_han_shu.md)
+* 从API中获取数据
 
