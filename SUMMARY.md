@@ -35,4 +35,5 @@
 * 从API中获取数据
    * [执行一个请求](zhi_xing_yi_ge_qing_qiu.md)
    * [在主线程以外执行请求](zai_zhu_xian_cheng_yi_wai_zhi_xing_qing_qiu.md)
+* 数据类
 
