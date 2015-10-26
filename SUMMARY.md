@@ -28,7 +28,7 @@
    * [基本类型](ji_ben_lei_xing.md)
    * [变量](bian_liang.md)
    * [属性](shu_xing.md)
-* Anko和扩展的方法
+* Anko和扩展的函数
    * [Anko是什么？](ankoshi_shi_yao_ff1f.md)
    * [开始使用Anko](kai_shi_shi_yong_anko.md)
    * [扩展函数](kuo_zhan_han_shu.md)
