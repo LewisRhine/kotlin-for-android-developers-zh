@@ -19,4 +19,5 @@
 * [类和函数](lei_he_han_shu.md)
    * [怎么定义一个类](zen_yao_ding_yi_yi_ge_lei.md)
    * [类继承](lei_ji_cheng.md)
+   * 函数
 
