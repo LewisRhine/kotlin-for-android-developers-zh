@@ -18,5 +18,5 @@
    * [测试是否一切就绪](ce_shi_shi_fou_yi_qie_jiu_xu.md)
 * [类和函数](lei_he_han_shu.md)
    * [怎么定义一个类](zen_yao_ding_yi_yi_ge_lei.md)
-   * 类继承
+   * [类继承](lei_ji_cheng.md)
 
