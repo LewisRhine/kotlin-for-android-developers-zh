@@ -31,5 +31,5 @@
 * Anko和扩展的方法
    * [Anko是什么？](ankoshi_shi_yao_ff1f.md)
    * [开始使用Anko](kai_shi_shi_yong_anko.md)
-   * 扩展函数
+   * [扩展函数](kuo_zhan_han_shu.md)
 
