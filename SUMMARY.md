@@ -17,4 +17,5 @@
    * [把MainActivity转换成Kotlin代码](ba_mainactivity_zhuan_huan_cheng_kotlin_dai_ma.md)
    * [测试是否一切就绪](ce_shi_shi_fou_yi_qie_jiu_xu.md)
 * [类和函数](lei_he_han_shu.md)
+   * 怎么定义一个类
 
