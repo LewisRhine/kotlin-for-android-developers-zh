@@ -24,5 +24,5 @@
 * [编写你的第一个类](bian_xie_ni_de_di_yi_ge_lei.md)
    * [创建一个layout](chuang_jian_yi_ge_layout.md)
    * [The Recycler Adapter](the_recycler_adapter.md)
-* 变量和属性
+* [变量和属性](bian_liang_he_shu_xing.md)
 
