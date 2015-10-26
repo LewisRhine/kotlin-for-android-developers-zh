@@ -8,4 +8,3 @@ class Person(name: String, surname: String) : Animal(name)
 ```
 
 当我们只有单个构造器时，我们需要在从父类继承下来的构造器中指定需要的参数。这是用来替换Java中的`super`调用的。
-
