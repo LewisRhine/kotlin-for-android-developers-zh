@@ -38,4 +38,5 @@
 * [数据类](shu_ju_lei.md)
    * [额外的函数](e_wai_de_han_shu.md)
    * [复制一个数据类](fu_zhi_yi_ge_shu_ju_lei.md)
+   * 映射对象到变量中
 
