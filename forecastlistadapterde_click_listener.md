@@ -1,0 +1,2 @@
+# ForecastListAdapter的click listener
+
