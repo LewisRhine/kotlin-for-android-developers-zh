@@ -47,5 +47,5 @@
    * [例子](li_zi.md)
    * [扩展函数中的操作符](kuo_zhan_han_shu_zhong_de_cao_zuo_fu.md)
 * [使Forecast list可点击](shi_forecast_list_ke_dian_ji.md)
-* Lambdas
+* [Lambdas](lambdas.md)
 
