@@ -49,4 +49,5 @@
 * [使Forecast list可点击](shi_forecast_list_ke_dian_ji.md)
 * [Lambdas](lambdas.md)
    * [简化setOnClickListener()](jian_hua_setonclicklistener.md)
+   * ForecastListAdapter的click listener
 
