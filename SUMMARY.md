@@ -67,5 +67,5 @@
 * [创建一个SQLiteOpenHelper](chuang_jian_yi_ge_sqliteopenhelper.md)
    * [ManagedSqliteOpenHelper](managedsqliteopenhelper.md)
    * [定义表](ding_yi_biao.md)
-   * 实现SqliteOpenHelper
+   * [实现SqliteOpenHelper](shi_xian_sqliteopenhelper.md)
 
