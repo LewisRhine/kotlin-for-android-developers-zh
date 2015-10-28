@@ -57,5 +57,5 @@
    * [重构代码](zhong_gou_dai_ma.md)
 * [Kotlin Android Extensions](kotlin_android_extensions.md)
    * [怎么去使用Kotlin Android Extensions](zen_yaoqu_shi_yong_kotlinandroid_extensions.md)
-   * 重构我们的代码
+   * [重构我们的代码](zhong_gou_wo_men_de_dai_ma.md)
 
