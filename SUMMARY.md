@@ -62,4 +62,5 @@
    * [Applicaton单例化](applicatondan_li_hua.md)
    * [委托属性](wei_tuo_shu_xing.md)
    * [标准委托](biao_zhun_wei_tuo.md)
+   * 怎么去创建一个自定义的委托
 
