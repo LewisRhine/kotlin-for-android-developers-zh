@@ -60,5 +60,5 @@
    * [重构我们的代码](zhong_gou_wo_men_de_dai_ma.md)
 * [Application单例化和属性的Delegated](applicationdan_li_hua_he_shu_xing_de_delegated.md)
    * [Applicaton单例化](applicatondan_li_hua.md)
-   * 委托属性
+   * [委托属性](wei_tuo_shu_xing.md)
 
