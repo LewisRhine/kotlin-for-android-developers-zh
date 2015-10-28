@@ -40,4 +40,6 @@ supportsLollipop {
 }
 ```
 
-举个例子，Anko也是基于这个思想来实现`Android Layout`的`DSL`化。你也可以查看`Kotlin reference`中`使用DSL来编写HTML`的一个例子。
+举个例子，Anko也是基于这个思想来实现`Android Layout`的`DSL`化。你也可以查看`Kotlin reference`中[`使用DSL来编写HTML`]的一个例子。
+
+[`使用DSL来编写HTML`]: http://kotlinlang.org/docs/reference/type-safe-builders.html
