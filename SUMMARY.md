@@ -69,5 +69,5 @@
    * [定义表](ding_yi_biao.md)
    * [实现SqliteOpenHelper](shi_xian_sqliteopenhelper.md)
    * [依赖注入](yi_lai_zhu_ru.md)
-* 集合和函数操作符
+* [集合和函数操作符](ji_he_he_han_shu_cao_zuo_fu.md)
 
