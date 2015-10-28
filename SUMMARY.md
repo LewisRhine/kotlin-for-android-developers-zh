@@ -59,4 +59,5 @@
    * [怎么去使用Kotlin Android Extensions](zen_yaoqu_shi_yong_kotlinandroid_extensions.md)
    * [重构我们的代码](zhong_gou_wo_men_de_dai_ma.md)
 * [Application单例化和属性的Delegated](applicationdan_li_hua_he_shu_xing_de_delegated.md)
+   * Applicaton单例化
 
