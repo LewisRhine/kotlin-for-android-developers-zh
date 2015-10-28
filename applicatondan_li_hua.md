@@ -1,0 +1,2 @@
+# Applicaton单例化
+
