@@ -63,5 +63,5 @@
    * [委托属性](wei_tuo_shu_xing.md)
    * [标准委托](biao_zhun_wei_tuo.md)
    * [怎么去创建一个自定义的委托](zen_yao_qu_chuang_jian_yi_ge_zi_ding_yi_de_wei_tuo.md)
-   * 重新实现Application单例化
+   * [重新实现Application单例化](zhong_xin_shixian_application_dan_li_hua.md)
 
