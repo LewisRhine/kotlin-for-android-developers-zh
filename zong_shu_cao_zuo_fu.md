@@ -2,7 +2,7 @@
 
 #### any
 
-如果至少有一个item符合给出的判断条件，则返回true。
+如果至少有一个元素符合给出的判断条件，则返回true。
 
 ```kotlin
 val list = listOf(1, 2, 3, 4, 5, 6)
@@ -12,7 +12,7 @@ assertFalse(list.any { it > 10 })
 
 #### all
 
-如果全部的item符合给出的判断条件，则返回true。
+如果全部的元素符合给出的判断条件，则返回true。
 
 ```kotlin
 assertTrue(list.all { it < 10 })
@@ -21,7 +21,7 @@ assertFalse(list.all { it % 2 == 0 })
 
 #### count
 
-返回符合给出判断条件的item总数。
+返回符合给出判断条件的元素总数。
 
 ```kotlin
 assertEquals(3, list.count { it % 2 == 0 })
@@ -29,7 +29,7 @@ assertEquals(3, list.count { it % 2 == 0 })
 
 #### fold
 
-在一个初始值的基础上从第一项到最后一项通过一个函数累计所有的item。
+在一个初始值的基础上从第一项到最后一项通过一个函数累计所有的元素。
 
 ```kotlin
 assertEquals(25, list.fold(4) { total, next -> total + next })
@@ -45,7 +45,7 @@ assertEquals(25, list.foldRight(4) { total, next -> total + next })
 
 #### forEach
 
-遍历所有item，并执行给定的操作。
+遍历所有元素，并执行给定的操作。
 
 ```kotlin
 list.forEach { println(it) }
@@ -53,7 +53,7 @@ list.forEach { println(it) }
 
 #### forEachIndexed
 
-与`forEach`，但是我们同时可以得到item的index。
+与`forEach`，但是我们同时可以得到元素的index。
 
 ```kotlin
 list.forEachIndexed { index, value
@@ -96,7 +96,7 @@ assertEquals(6, list.minBy { -it })
 
 #### none
 
-如果没有任何item与给定的函数匹配，则返回true。
+如果没有任何元素与给定的函数匹配，则返回true。
 
 ```kotlin
 // No elements are divisible by 7
