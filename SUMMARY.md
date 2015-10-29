@@ -72,5 +72,5 @@
 * [集合和函数操作符](ji_he_he_han_shu_cao_zuo_fu.md)
    * [总数操作符](zong_shu_cao_zuo_fu.md)
    * [过滤操作符](guo_lv_cao_zuo_fu.md)
-   * 映射操作符
+   * [映射操作符](ying_she_cao_zuo_fu.md)
 
