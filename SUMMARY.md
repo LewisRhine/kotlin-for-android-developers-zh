@@ -73,5 +73,5 @@
    * [总数操作符](zong_shu_cao_zuo_fu.md)
    * [过滤操作符](guo_lv_cao_zuo_fu.md)
    * [映射操作符](ying_she_cao_zuo_fu.md)
-   * 元素操作符
+   * [元素操作符](yuan_su_cao_zuo_fu.md)
 
