@@ -93,4 +93,5 @@
    * [准备请求](zhun_bei_qing_qiu.md)
    * [提供一个新的activity](ti_gong_yige_xin_de_activity.md)
    * [启动一个activity：reified函数](qi_dong_yige_activity__reified_han_shu.md)
+* 接口和委托
 
