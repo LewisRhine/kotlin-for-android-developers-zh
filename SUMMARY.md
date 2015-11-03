@@ -91,5 +91,5 @@
    * [Ranges](ranges.md)
 * [创建一个详情界面](chuang_jian_yi_ge_xiang_qing_jie_mian.md)
    * [准备请求](zhun_bei_qing_qiu.md)
-   * 提供一个新的activity
+   * [提供一个新的activity](ti_gong_yige_xin_de_activity.md)
 
