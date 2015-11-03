@@ -33,7 +33,7 @@ for (i in 10..0)
 它就不会做任何事情。但是你可以使用`downTo`函数：
 
 ```kotlin
-for(iin10downTo0)
+for(i in 10 downTo 0)
 	println(i)
 ```
 
