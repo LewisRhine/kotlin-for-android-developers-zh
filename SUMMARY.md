@@ -95,5 +95,5 @@
    * [启动一个activity：reified函数](qi_dong_yige_activity__reified_han_shu.md)
 * 接口和委托
    * [接口](jie_kou.md)
-   * 委托
+   * [委托](wei_tuo.md)
 
