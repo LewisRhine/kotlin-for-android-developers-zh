@@ -89,4 +89,5 @@
    * [For循环](forxun_huan.md)
    * [While和do/while循环](whilehe_do__while_xun_huan.md)
    * [Ranges](ranges.md)
+* 创建一个详情Activity
 
