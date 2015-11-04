@@ -107,5 +107,5 @@
    * [范型preference委托](fan_xing_preference_wei_tuo.md)
 * [测试你的App](ce_shi_ni_de_app.md)
    * [Unit testing](unit_testing.md)
-   * Instrumentation tests
+   * [Instrumentation tests](instrumentation_tests.md)
 
