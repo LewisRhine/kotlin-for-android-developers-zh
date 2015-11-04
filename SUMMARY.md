@@ -99,5 +99,5 @@
    * [在我们的App中实现一个例子](zai_wo_men_de_app_zhong_shi_xian_yi_ge_li_zi.md)
 * [范型](fan_xing.md)
    * [基础](ji_chu.md)
-   * 不同之处
+   * [不同之处](bu_tong_zhi_chu.md)
 
