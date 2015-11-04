@@ -30,7 +30,7 @@ interface Collection<E> ... {
 
 否则，没有通配符，我们不会允许在这个方法中使用`String` List。相反地，当然会失败。我们不能使用`addAll()`来增加一个`Objects` List到`Strings` List中。因为我们只是用那个方法从`collection`中获取元素，这是一个完美的协变（`covariance`）的例子。
 
-另一方面，我们可以在对立面上发现逆变（`contravariance`）。按照集合的例子，如果我们想把转过来的参数增加到集合中去，我们可以增加更加限制的类型到范型集合中去。比如，我们可以增加`Strings`到`Object`List：
+另一方面，我们可以在对立面上发现逆变（`contravariance`）。按照集合的例子，如果我们想把传过来的参数增加到集合中去，我们可以增加更加限制的类型到范型集合中。比如，我们可以增加`Strings`到`Object`List：
 
 ```java
 void copyStrings(Collection<? super String> to, Collection<String> from) {
