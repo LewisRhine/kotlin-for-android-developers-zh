@@ -100,5 +100,5 @@
 * [范型](fan_xing.md)
    * [基础](ji_chu.md)
    * [变体](bian_ti.md)
-   * 范型例子
+   * [范型例子](fan_xing_li_zi.md)
 
