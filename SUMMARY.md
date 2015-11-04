@@ -104,5 +104,5 @@
 * [设置界面](she_zhi_jie_mian.md)
    * [创建一个设置activity](chuang_jian_yi_ge_she_zhi_activity.md)
    * [访问Shared Preferences](fang_wen_shared_preferences.md)
-   * 范型preference委托
+   * [范型preference委托](fan_xing_preference_wei_tuo.md)
 
