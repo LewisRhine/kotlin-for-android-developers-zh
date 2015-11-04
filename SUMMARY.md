@@ -102,5 +102,5 @@
    * [变体](bian_ti.md)
    * [范型例子](fan_xing_li_zi.md)
 * [设置界面](she_zhi_jie_mian.md)
-   * 创建一个设置activity
+   * [创建一个设置activity](chuang_jian_yi_ge_she_zhi_activity.md)
 
