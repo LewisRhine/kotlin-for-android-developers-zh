@@ -20,6 +20,7 @@ public class ForecastListAdapter(val weekForecast: ForecastList) :
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int):
             ViewHolder? {
         return ForecastListAdapter.ViewHolder(TextView(parent.getContext()))
+    }
         
     override fun onBindViewHolder(holder: ForecastListAdapter.ViewHolder,
             position: Int) {
