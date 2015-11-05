@@ -9,7 +9,7 @@ enum class Day {
 }
 ```
 
-`enmus` 可以带有参数：
+枚举可以带有参数：
 
 ```kotlin
 enum class Icon(val res: Int) {
