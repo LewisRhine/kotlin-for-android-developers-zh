@@ -111,5 +111,5 @@
 * [其它的概念](qi_ta_de_gai_nian.md)
    * [内部类](nei_bu_lei.md)
    * [枚举](mei_ju.md)
-   * Sealed类
+   * [Sealed类](sealedlei.md)
 
