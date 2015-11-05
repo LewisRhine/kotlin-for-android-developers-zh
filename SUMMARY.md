@@ -109,5 +109,5 @@
    * [Unit testing](unit_testing.md)
    * [Instrumentation tests](instrumentation_tests.md)
 * [其它的概念](qi_ta_de_gai_nian.md)
-   * 内部类
+   * [内部类](nei_bu_lei.md)
 
