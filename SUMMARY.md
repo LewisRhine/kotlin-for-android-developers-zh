@@ -112,5 +112,5 @@
    * [内部类](nei_bu_lei.md)
    * [枚举](mei_ju.md)
    * [密封（Sealed）类](mi_feng_lei.md)
-   * 异常（Exceptions）
+   * [异常（Exceptions）](yi_chang_ff08_exceptions.md)
 
