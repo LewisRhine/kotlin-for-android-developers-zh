@@ -1,6 +1,6 @@
 # 枚举
 
-Kotlin也提供了`enmus`的实现：
+Kotlin也提供了枚举（`enmus`）的实现：
 
 ```kotlin
 enum class Day {
