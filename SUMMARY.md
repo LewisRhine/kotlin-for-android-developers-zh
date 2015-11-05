@@ -108,5 +108,5 @@
 * [测试你的App](ce_shi_ni_de_app.md)
    * [Unit testing](unit_testing.md)
    * [Instrumentation tests](instrumentation_tests.md)
-* 其它的概念
+* [其它的概念](qi_ta_de_gai_nian.md)
 
