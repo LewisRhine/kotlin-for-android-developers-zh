@@ -8,4 +8,5 @@
 
 希望大家购买正版，建议阅读英文原版：https://leanpub.com/kotlin-for-android-developers
 
+- Github: https://github.com/wangjiegulu/kotlin-for-android-developers-zh
 
