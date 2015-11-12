@@ -19,7 +19,7 @@ class App : Application() {
 }
 ```
 
-在这个例子中，database并没有被真正初始化，直到第一次调用`onCreate`时。在那之后，我们才确保application context存在，并且已经准备好可以被使用了。`lazy`操作符是线程安全的。
+在这个例子中，database并没有被真正初始化，直到第一次调用`onCreate`时。在那之后，我们才确保applicationContext存在，并且已经准备好可以被使用了。`lazy`操作符是线程安全的。
 
 如果你不担心多线程问题或者想提高更多的性能，你也可以使用`lazy(LazyThreadSafeMode.NONE){ ... }`。
 
