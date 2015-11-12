@@ -113,7 +113,7 @@ assertEquals(21, list.reduce { total, next -> total + next })
 
 #### reduceRight
 
-与`reduce`一样，但是顺序是从，但是顺序是从最后一项到第一项。
+与`reduce`一样，但是顺序是从最后一项到第一项。
 
 ```kotlin
 assertEquals(21, list.reduceRight { total, next -> total + next })
