@@ -5,7 +5,7 @@
 虽然我们可以直接用Java中的集合，但是Kotlin也提供了一些你希望用的本地的接口：
 
 - __Iterable__：父类。所有我们可以遍历一系列的都是实现这个接口。
-- MutableIterable：一个支持便利的同时可以执行删除的Iterables。
+- __MutableIterable__：一个支持遍历的同时可以执行删除的Iterables。
 - __Collection__：这个类相是一个范性集合。我们通过函数访问可以返回集合的size、是否为空、是否包含一个或者一些item。这个集合的所有方法提供查询，因为connections是不可修改的。
 - __MutableCollection__：一个支持增加和删除item的Collection。它提供了额外的函数，比如`add` 、`remove`、`clear`等等。
 - __List__：可能是最流行的集合类型。它是一个范性有序的集合。因为它的有序，我们可以使用`get`函数通过position来访问。
